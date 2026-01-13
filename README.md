@@ -4,13 +4,9 @@ This project contains a Dart program that finds the minimum value in a list of n
 
 
 How it works
-
 A list of integers is created
-
 A function loops through the list
-
 It finds the smallest number
-
 The result is printed in the console
 
 
@@ -19,17 +15,10 @@ The minimum value in the list is: 2
 
 
 Tools used
-
 Dart
-
 VS Code or DartPad
-
 Git & GitHub
 
 
 Author
-
 Rolan Redwan
-Run the program
-
-Check the console output
